@@ -1,5 +1,8 @@
 # ysyx-slides
 
+## 2025.02.23
++ [在nemu上启动linux -- 郭明轩](https://github.com/ysyx-ta/ysyx-linux/blob/master/boot-Linux-on-NEMU.md)
+
 ## 2025.01.12
 + [香山LightSSS剖析 -- 王植鑫](./2025.01.12/香山LightSSS剖析-王植鑫.pptx)
 
