@@ -1,7 +1,7 @@
 # ysyx-slides
 
 ## 2025.03.09
-+ [在npc中移植lightsss -- 彭培智](./2025.03.09/在npc中移植lightsss-彭培智.html)
++ [在npc中移植lightsss -- 彭培智](./2025.03.09/在npc中移植lightsss-彭培智.pdf)
 
 ## 2025.02.23
 + [在nemu上启动linux -- 郭明轩](https://github.com/ysyx-ta/ysyx-linux/blob/master/boot-Linux-on-NEMU.md)
